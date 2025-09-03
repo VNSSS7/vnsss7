@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- TOOLS & TECHNOLOGIES -->
+<h3 align="left">🔧 Tools and Technologies I'm Practicing:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="50" />
+  &nbsp;
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="35" />
+  &nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="55" />
+  &nbsp;
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo-768x873.png" width="35" />
+  &nbsp;
+</p>
+
 
 <!-- GITHUB STATS -->
 <h3 align="left">📊 Follow My Progress:</h3>
