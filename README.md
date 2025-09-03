@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <!-- GITHUB STATS -->
 <h3 align="left">📊 Follow My Progress:</h3>
 <center>
@@ -24,16 +25,17 @@ Here are some ideas to get you started:
         <img 
           width="475px" 
           align="left" 
-          src="https://github-readme-stats.vercel.app/api?username=arnaldorocha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
+          src="https://github-readme-stats.vercel.app/api?username=vnsss7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
         />
       </td>
       <td>
         <img 
           width="400px" 
           align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnsss7&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
         />
       </td>        
     </tr>   
   </table>
 </center>
+
