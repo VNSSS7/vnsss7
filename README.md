@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="50" />
   &nbsp;
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="35" />
+  <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" width="50" />
   &nbsp;
 </p>
 
